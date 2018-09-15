@@ -11,4 +11,4 @@ Simulation model
   
 Cathode 
 
-[PHYSICAL REVIEW B 70, 174304 (2004) Entropy of Li intercalation in LixCoO2](https://core.ac.uk/download/pdf/4871545.pdf)
+[Entropy of Li intercalation in LixCoO2, PHYSICAL REVIEW B 70, 174304 (2004)](https://core.ac.uk/download/pdf/4871545.pdf)
