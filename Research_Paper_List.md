@@ -14,7 +14,8 @@
 ## Cathode 
 
 [Entropy of Li intercalation in LixCoO2, PHYSICAL REVIEW B 70, 174304 (2004)](https://core.ac.uk/download/pdf/4871545.pdf)
-[Phase Transitions and High-Voltage Electrochemical Behavior of LiCoO2 Thin Films Grown by Pulsed Laser Deposition, Journal of The Electrochemical Society, 154 􏰊4􏰋 A337-A342 􏰊2007􏰋](https://pdfs.semanticscholar.org/fdd5/ad702a8a28b1171666889d6edd7a7a1f9d07.pdf)
+[Phase Transitions and High-Voltage Electrochemical Behavior of LiCoO2 Thin Films Grown by Pulsed Laser Deposition, Journal of The Electrochemical Society, 154 􏰊4􏰋 A337-A342 􏰊2007􏰋](https://pdfs.semanticscholar.org/fdd5/ad702a8a28b1171666889d6edd7a7a1f9d07.pdf)  
+[In situ NMR observation of the lithium extraction/insertion from LiCoO2 cathode, Electrochimica Acta 108 (2013) 343–349](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/179277/1/j.electacta.2013.06.120.pdf)
 
 ## Anode  
 [Model of Lithium Intercalation into Graphite by Potentiometric Analysis with Equilibrium and Entropy Change Curves of Graphite Electrode David Allart et al., 65(2):A380-A387 · January 2018](https://www.researchgate.net/publication/322889886_Model_of_Lithium_Intercalation_into_Graphite_by_Potentiometric_Analysis_with_Equilibrium_and_Entropy_Change_Curves_of_Graphite_Electrode)
