@@ -23,3 +23,5 @@
 ## Degradation analysis  
 [リチウムイオン電池の劣化予測に向けた放電曲線の 数理モデル構築 本藏 耕平氏 博士論文](https://catalog.lib.kyushu-u.ac.jp/opac_download_md/1500731/eng2466_abstract.pdf)
 
+## Lecture note
+[電極反応の平衡論と速度論](https://www.jstage.jst.go.jp/article/jcorr1954/18/8/18_8_367/_pdf)
