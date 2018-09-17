@@ -18,7 +18,9 @@
 - [Newman mondel: Simulation and Optimization of the Dual Lithium Ion Insertion Cell](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.874.3267&rep=rep1&type=pdf)
 - [Newman mondel: Modeling of Galvanostatic Charge and Discharge of the Lithium/Polymer/Insertion Cell ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.874.3267&rep=rep1&type=pdf)    
 - [Newman’s P2D Model](https://www.sharcnet.ca/Software/Ansys/17.0/en-us/help/flu_am/th_bat_MSMD_Newman_sec.html)
-
+- [Review of simplified Pseudo-two-Dimensional models of lithium-ion
+batteries](https://www.researchgate.net/publication/305844209/download)
+- [Simplification and order reduction of lithium-ion battery model based on porous-electrode theory](https://pdfs.semanticscholar.org/d1a4/cc59dbf7cb3451fccf7ef23ba9156cb088a3.pdf)  
   
 ## Cathode 
 
