@@ -11,8 +11,14 @@
 - [小型リチウムイオン二次電池の急速充放電時の発熱挙動](http://arakilab.ynu.ac.jp/paper/paper/2004_b1.pdf)
 
 - [Extending Newman’s Pseudo-Two-Dimensional Lithium-Ion Battery Impedance Simulation Approach to Include the Nonlinear Harmonic Response, Journal of The Electrochemical Society, 164 (11) E3311-E3320 (2017)](http://m.jes.ecsdl.org/content/164/11/E3311.full.pdf)  
-- [Lithium-ion Battery Modeling Using Non-equilibrium Thermodynamics, Todd R. Ferguson](http://web.mit.edu/bazant/www/papers/pdf/Ferguson_Thesis.pdf)
-  
+- [Lithium-ion Battery Modeling Using Non-equilibrium Thermodynamics, Todd R. Ferguson](http://web.mit.edu/bazant/www/papers/pdf/Ferguson_Thesis.pdf)  
+- [Modeling of a Pouch Lithium Ion Battery Using a Distributed Parameter Equivalent Circuit for Internal Non-Uniformity Analysis, Energies 2016, 9, 865](https://econpapers.repec.org/article/gamjeners/v_3a9_3ay_3a2016_3ai_3a11_3ap_3a865-_3ad_3a81291.htm)  
+- [Distributed Thermal-Electrochemical Modeling of a Lithium-Ion Battery to Study the Effect of High Charging Rates](https://pdfs.semanticscholar.org/989c/9e18f451c75d5267a537fc1eb765b07e47a4.pdf)  
+- [A Summary of Analytical Model for Lithium-Ion Batteries](https://pdfs.semanticscholar.org/39d4/1aa1e3f91edd8c1f3976f14286f2d4b3d057.pdf)  
+- [Newman mondel: Simulation and Optimization of the Dual Lithium Ion Insertion Cell](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.874.3267&rep=rep1&type=pdf)
+- [Newman mondel: Modeling of Galvanostatic Charge and Discharge of the Lithium/Polymer/Insertion Cell ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.874.3267&rep=rep1&type=pdf)    
+- [Newman’s P2D Model](https://www.sharcnet.ca/Software/Ansys/17.0/en-us/help/flu_am/th_bat_MSMD_Newman_sec.html)
+
   
 ## Cathode 
 
