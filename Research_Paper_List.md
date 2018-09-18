@@ -21,6 +21,7 @@
 - [Review of simplified Pseudo-two-Dimensional models of lithium-ion
 batteries](https://www.researchgate.net/publication/305844209/download)
 - [Simplification and order reduction of lithium-ion battery model based on porous-electrode theory](https://pdfs.semanticscholar.org/d1a4/cc59dbf7cb3451fccf7ef23ba9156cb088a3.pdf)  
+- [1D モデリングによる電気化学に基いた Li イオンバッテリの 高速シミュレーション手法](https://www.jstage.jst.go.jp/article/jacc/59/0/59_757/_pdf/-char/ja)
   
 ## Cathode 
 
