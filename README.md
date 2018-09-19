@@ -6,4 +6,4 @@ In this Study Group, we plan to do “Build Li-ion battery simulation model with
   
 ### Time  
 AM6:00 ~ AM8:00 Every other Saturday.  
-From 22. Sep. 2018 to 17. Dec. 2018 (TBD)
+From 29. Sep. 2018 to 15. Dec. 2018 (TBD)
