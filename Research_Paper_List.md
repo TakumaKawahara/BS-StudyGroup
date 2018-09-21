@@ -25,13 +25,15 @@ batteries](https://www.researchgate.net/publication/305844209/download)
 - [Electrochemical-Thermal Modelling and Optimisation of Lithium-Ion Battery Design Parameters Using Analysis of Variance](http://www.mdpi.com/1996-1073/10/9/1278)  
 - [A New Kinetic Equation for Intercalation Electrodes](https://pdfs.semanticscholar.org/1df4/bf41fe93d16227895200d41b70ff16c0fa14.pdf)
 - [Multiscale modelling and analysis of lithium-ion battery charge and discharge](https://core.ac.uk/download/pdf/271076.pdf)
+- [Temperature-Dependence of the Solid-Electrolyte Interphase Overpotential: Part I. Two Parallel Mechanisms, One Phase Transition](http://m.jes.ecsdl.org/content/165/2/A323.full.pdf)
   
 ## Cathode 
 
 - [Entropy of Li intercalation in LixCoO2, PHYSICAL REVIEW B 70, 174304 (2004)](https://core.ac.uk/download/pdf/4871545.pdf)
 - [Phase Transitions and High-Voltage Electrochemical Behavior of LiCoO2 Thin Films Grown by Pulsed Laser Deposition, Journal of The Electrochemical Society, 154 􏰊4􏰋 A337-A342 􏰊2007􏰋](https://pdfs.semanticscholar.org/fdd5/ad702a8a28b1171666889d6edd7a7a1f9d07.pdf)  
 - [In situ NMR observation of the lithium extraction/insertion from LiCoO2 cathode, Electrochimica Acta 108 (2013) 343–349](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/179277/1/j.electacta.2013.06.120.pdf)  
-- [Charge transfer kinetics at the solid–solid interface in porous electrodes](https://www.nature.com/articles/ncomms4585.pdf)
+- [Charge transfer kinetics at the solid–solid interface in porous electrodes](https://www.nature.com/articles/ncomms4585.pdf)  
+- [Electrochemical impedance study of LiCoO2 cathode reactions in a lithium ion cell incorporating a reference electrode](https://link.springer.com/article/10.1007/s10008-015-2741-y)  
 
 ## Anode  
 - [Model of Lithium Intercalation into Graphite by Potentiometric Analysis with Equilibrium and Entropy Change Curves of Graphite Electrode David Allart et al., 65(2):A380-A387 · January 2018](https://www.researchgate.net/publication/322889886_Model_of_Lithium_Intercalation_into_Graphite_by_Potentiometric_Analysis_with_Equilibrium_and_Entropy_Change_Curves_of_Graphite_Electrode)
