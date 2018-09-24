@@ -45,3 +45,4 @@ batteries](https://www.researchgate.net/publication/305844209/download)
 
 ## Lecture note
 - [電極反応の平衡論と速度論](https://www.jstage.jst.go.jp/article/jcorr1954/18/8/18_8_367/_pdf)
+- [Conduction Heat Transfer Notes for MECH 7210](Conduction Heat Transfer Notes for MECH 7210.pdf)
