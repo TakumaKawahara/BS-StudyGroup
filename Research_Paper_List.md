@@ -25,7 +25,9 @@ batteries](https://www.researchgate.net/publication/305844209/download)
 - [Electrochemical-Thermal Modelling and Optimisation of Lithium-Ion Battery Design Parameters Using Analysis of Variance](http://www.mdpi.com/1996-1073/10/9/1278)  
 - [A New Kinetic Equation for Intercalation Electrodes](https://pdfs.semanticscholar.org/1df4/bf41fe93d16227895200d41b70ff16c0fa14.pdf)
 - [Multiscale modelling and analysis of lithium-ion battery charge and discharge](https://core.ac.uk/download/pdf/271076.pdf)
-- [Temperature-Dependence of the Solid-Electrolyte Interphase Overpotential: Part I. Two Parallel Mechanisms, One Phase Transition](http://m.jes.ecsdl.org/content/165/2/A323.full.pdf)
+- [Temperature-Dependence of the Solid-Electrolyte Interphase Overpotential: Part I. Two Parallel Mechanisms, One Phase Transition](http://m.jes.ecsdl.org/content/165/2/A323.full.pdf)  
+- [Integrated Lithium-Ion Battery Model Encompassing Multi- Physics in Varied Scales: An Integrated Computer Simulation Tool for Design and Development of EDV Batteries](https://www.nrel.gov/transportation/assets/pdfs/50248.pdf)  
+
   
 ## Cathode 
 
