@@ -17,3 +17,8 @@ From 29. Sep. 2018 to 15. Dec. 2018 (TBD)
 -  +Multiple particle
 -  +Long/Wide electrode
 -  +Temperature
+
+### Schedule  
+>**29.Sep.2018(Sat.) AM6:00 ~ AM8:00**  
+Introduction.  
+How to use Python.  
