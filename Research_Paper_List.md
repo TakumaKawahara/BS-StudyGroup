@@ -27,6 +27,7 @@ batteries](https://www.researchgate.net/publication/305844209/download)
 - [Multiscale modelling and analysis of lithium-ion battery charge and discharge](https://core.ac.uk/download/pdf/271076.pdf)
 - [Temperature-Dependence of the Solid-Electrolyte Interphase Overpotential: Part I. Two Parallel Mechanisms, One Phase Transition](http://m.jes.ecsdl.org/content/165/2/A323.full.pdf)  
 - [Integrated Lithium-Ion Battery Model Encompassing Multi- Physics in Varied Scales: An Integrated Computer Simulation Tool for Design and Development of EDV Batteries](https://www.nrel.gov/transportation/assets/pdfs/50248.pdf)  
+- [ComparisonofModelingPredictionswithExperimentalData fromPlasticLithiumIonCels](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1029.9961&rep=rep1&type=pdf)
 
   
 ## Cathode 
