@@ -23,7 +23,7 @@ From 29. Sep. 2018 to 15. Dec. 2018 (TBD)
 Introduction.  
 How to use Python.  
 
->**02.Oct.2018(Sat.) AM6:00 ~ AM8:30**  
+>**20.Oct.2018(Sat.) AM6:00 ~ AM8:30**  
 Introduction.  
 Charge transfer resistance.  
 Li diffusion in solide state.
