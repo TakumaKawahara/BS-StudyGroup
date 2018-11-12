@@ -1,8 +1,9 @@
 # Reference
 
 ## Simulation model  
-- [★Simplification and order reduction of lithium-ion battery model based on porous-electrode theory](https://pdfs.semanticscholar.org/d1a4/cc59dbf7cb3451fccf7ef23ba9156cb088a3.pdf)  
-- [★Newman mondel: Simulation and Optimization of the Dual Lithium Ion Insertion Cell](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.874.3267&rep=rep1&type=pdf)  
+- [★ Simplification and order reduction of lithium-ion battery model based on porous-electrode theory](https://pdfs.semanticscholar.org/d1a4/cc59dbf7cb3451fccf7ef23ba9156cb088a3.pdf)  
+- [★ Newman mondel: Simulation and Optimization of the Dual Lithium Ion Insertion Cell](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.874.3267&rep=rep1&type=pdf)  
+- [★ Solid-state diffusion limitations on pulse operation of a lithium ion cell for hybrid electric vehicles](http://ecec.mne.psu.edu/Pubs/2006-Smith-JPS-2.pdf)  
 - [SIEMENS Battery Design Studioと HEEDSによる急速充電に向けたリチウムイオン電池の設計探査シミュレーション](https://mdx2.plm.automation.siemens.com/sites/default/files/Presentation/SJC2017_1-A5_SiemensPLMSoftware.pdf)  
 - [神戸製鋼技報/Vol. 64 No. 2（Oct. 2014）Liイオン二次電池における充放電Li輸送と劣化現象のモデル解析](http://www.kobelco.co.jp/technology-review/pdf/64_2/099-104.pdf)  
 - [神戸製鋼技報/Vol. 66 No. 2(Mar. 2017) リチウムイオン二次電池向けシミュレーション技術](http://www.kobelco.co.jp/technology-review/pdf/66_2/120-125.pdf)
@@ -28,7 +29,8 @@ batteries](https://www.researchgate.net/publication/305844209/download)
 - [Model-Based Electrochemical Estimation of Lithium-Ion Batteries](https://www.nrel.gov/transportation/assets/pdfs/smith_rahn_wang_ieee_conf_052708.pdf)
 - [One Dimensional Computer Modeling of a Lithium-Ion Battery](https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=2895&context=etd_all)  
 - [PSM: Lithium-Ion Battery State of Charge (SOC) and Critical Surface Charge (CSC) Estimation using an Electrochemical Model-driven Extended Kalman Filter](http://www-personal.umich.edu/~annastef/papers_battery/batteryJDSMCrev.pdf)
-  
+- [Lithium-Ion Battery State of Charge and Critical Surface Charge Estimation Using an Electrochemical Model-Based Extended Kalman Filter](https://pdfs.semanticscholar.org/0483/5c86f9712121af28a5bd4aac136fe9750c9c.pdf)  
+- [Simulation of electrochemical behavior in Lithium ion battery during discharge process](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0189757&type=printable)
 ## Cathode 
 
 - [Entropy of Li intercalation in LixCoO2, PHYSICAL REVIEW B 70, 174304 (2004)](https://core.ac.uk/download/pdf/4871545.pdf)
@@ -36,8 +38,7 @@ batteries](https://www.researchgate.net/publication/305844209/download)
 - [In situ NMR observation of the lithium extraction/insertion from LiCoO2 cathode, Electrochimica Acta 108 (2013) 343–349](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/179277/1/j.electacta.2013.06.120.pdf)  
 - [Charge transfer kinetics at the solid–solid interface in porous electrodes](https://www.nature.com/articles/ncomms4585.pdf)  
 - [Electrochemical impedance study of LiCoO2 cathode reactions in a lithium ion cell incorporating a reference electrode](https://link.springer.com/article/10.1007/s10008-015-2741-y)  
-- [Lithium-Ion Battery State of Charge and Critical Surface Charge Estimation Using an Electrochemical Model-Based Extended Kalman Filter](https://pdfs.semanticscholar.org/0483/5c86f9712121af28a5bd4aac136fe9750c9c.pdf)  
-- [Simulation of electrochemical behavior in Lithium ion battery during discharge process](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0189757&type=printable)
+
 
 ## Anode  
 - [Model of Lithium Intercalation into Graphite by Potentiometric Analysis with Equilibrium and Entropy Change Curves of Graphite Electrode David Allart et al., 65(2):A380-A387 · January 2018](https://www.researchgate.net/publication/322889886_Model_of_Lithium_Intercalation_into_Graphite_by_Potentiometric_Analysis_with_Equilibrium_and_Entropy_Change_Curves_of_Graphite_Electrode)
