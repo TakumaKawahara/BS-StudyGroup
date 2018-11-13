@@ -26,4 +26,13 @@ How to use Python.
 >**20.Oct.2018(Sat.) AM6:00 ~ AM8:30**  
 Introduction.  
 Charge transfer resistance.  
-Li diffusion in solide state.
+Li diffusion in solide state.  
+　　
+
+>**07.Nov.2018(Sat.) AM19:00 ~ AM21:30**  
+Introduction.  
+Charge transfer resistance.  
+Li diffusion in solide state.   
+Li migration in electrolyte.  
+Basic of simulation.  
+
