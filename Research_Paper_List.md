@@ -5,6 +5,7 @@
 - [★ Newman mondel: Simulation and Optimization of the Dual Lithium Ion Insertion Cell](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.874.3267&rep=rep1&type=pdf)  
 - [★ Solid-state diffusion limitations on pulse operation of a lithium ion cell for hybrid electric vehicles](http://ecec.mne.psu.edu/Pubs/2006-Smith-JPS-2.pdf)  
 - [Newman mondel: Modeling a Porous Intercalation Electrode with Two Characteristic Particle Sizes](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.870.761&rep=rep1&type=pdf)  
+- [THERMAL-ELECTROCHEMICAL COUPLED MODELING OF A LITHIUM-ION CELL](http://ecec.mne.psu.edu/Pubs/2000-Gu-ECS.pdf)  
 - [SIEMENS Battery Design Studioと HEEDSによる急速充電に向けたリチウムイオン電池の設計探査シミュレーション](https://mdx2.plm.automation.siemens.com/sites/default/files/Presentation/SJC2017_1-A5_SiemensPLMSoftware.pdf)  
 - [神戸製鋼技報/Vol. 64 No. 2（Oct. 2014）Liイオン二次電池における充放電Li輸送と劣化現象のモデル解析](http://www.kobelco.co.jp/technology-review/pdf/64_2/099-104.pdf)  
 - [神戸製鋼技報/Vol. 66 No. 2(Mar. 2017) リチウムイオン二次電池向けシミュレーション技術](http://www.kobelco.co.jp/technology-review/pdf/66_2/120-125.pdf)
