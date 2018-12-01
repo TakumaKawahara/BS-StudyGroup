@@ -36,3 +36,5 @@ Li diffusion in solide state.
 Li migration in electrolyte.  
 Basic of simulation.  
 
+>**17.Nov.2018(Sat.) AM6:00 ~ AM8:30**  
+
