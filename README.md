@@ -40,3 +40,5 @@ Basic of simulation.
 
 >**01.Dec.2018(Sat.) AM6:00 ~ AM8:30**  
 
+>**17.Dec.2018(Sat.) AM19:00 ~ AM21:30**  
+
