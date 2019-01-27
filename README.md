@@ -1,4 +1,4 @@
-# Battery Simulation Study Group 2018#1 (BSSG18#1)
+# Battery Simulation Study Group (BSSG18-19)
 This repository is for record about “Battery Simulation Study Group”.  
 
 ### Object  
@@ -6,7 +6,7 @@ In this Study Group, we plan to do “Build Li-ion battery simulation model with
   
 ### Time  
 AM6:00 ~ AM8:00 Every other Saturday.  
-From 29. Sep. 2018 to 15. Dec. 2018 (TBD)
+From 29. Sep. 2018 to 6. Apr. 2019 (TBD)
 　　
 ### Model
 - Metal resistance
@@ -41,4 +41,6 @@ Basic of simulation.
 >**01.Dec.2018(Sat.) AM6:00 ~ AM8:30**  
 
 >**17.Dec.2018(Sat.) AM19:00 ~ AM21:30**  
+
+>**26.Jan.2019(Sat.) AM6:00 ~ AM8:30**  
 
