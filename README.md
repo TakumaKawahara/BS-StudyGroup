@@ -44,3 +44,5 @@ Basic of simulation.
 
 >**26.Jan.2019(Sat.) AM6:00 ~ AM8:30**  
 
+>**09.Feb.2019(Sat.) AM6:00 ~ AM8:30**  
+
