@@ -45,6 +45,7 @@ batteries](https://www.researchgate.net/publication/305844209/download)
 
 ## Anode  
 - [Model of Lithium Intercalation into Graphite by Potentiometric Analysis with Equilibrium and Entropy Change Curves of Graphite Electrode David Allart et al., 65(2):A380-A387 · January 2018](https://www.researchgate.net/publication/322889886_Model_of_Lithium_Intercalation_into_Graphite_by_Potentiometric_Analysis_with_Equilibrium_and_Entropy_Change_Curves_of_Graphite_Electrode)
+- [Investigation of Pre-lithiation in Graphite and Hard-Carbon Anodes Using Different Lithium Source Structures](http://jes.ecsdl.org/content/164/14/A3914.full.pdf+html)
 
 ## Degradation analysis  
 - [リチウムイオン電池の劣化予測に向けた放電曲線の 数理モデル構築 本藏 耕平氏 博士論文](https://catalog.lib.kyushu-u.ac.jp/opac_download_md/1500731/eng2466_abstract.pdf)
