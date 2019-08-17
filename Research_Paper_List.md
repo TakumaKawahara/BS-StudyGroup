@@ -33,6 +33,7 @@ batteries](https://www.researchgate.net/publication/305844209/download)
 - [PSM: Lithium-Ion Battery State of Charge (SOC) and Critical Surface Charge (CSC) Estimation using an Electrochemical Model-driven Extended Kalman Filter](http://www-personal.umich.edu/~annastef/papers_battery/batteryJDSMCrev.pdf)
 - [Lithium-Ion Battery State of Charge and Critical Surface Charge Estimation Using an Electrochemical Model-Based Extended Kalman Filter](https://pdfs.semanticscholar.org/0483/5c86f9712121af28a5bd4aac136fe9750c9c.pdf)  
 - [Simulation of electrochemical behavior in Lithium ion battery during discharge process](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0189757&type=printable)
+- [Elucidating the Performance Limitations of Lithium-ion Batteries due to Species and Charge Transport through Five Characteristic Parameters](https://www.nature.com/articles/srep32639.pdf)
 ## Cathode 
 
 - [Entropy of Li intercalation in LixCoO2, PHYSICAL REVIEW B 70, 174304 (2004)](https://core.ac.uk/download/pdf/4871545.pdf)
