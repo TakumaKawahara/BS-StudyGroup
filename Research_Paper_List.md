@@ -50,6 +50,16 @@ batteries](https://www.researchgate.net/publication/305844209/download)
 ## Degradation analysis  
 - [リチウムイオン電池の劣化予測に向けた放電曲線の 数理モデル構築 本藏 耕平氏 博士論文](https://catalog.lib.kyushu-u.ac.jp/opac_download_md/1500731/eng2466_abstract.pdf)
 
+## SOC SOH Estimation  
+- [Electrochemical Model-Based State of Charge and State of
+Health Estimation of Lithium-Ion Batteries](https://pdfs.semanticscholar.org/23b0/c8ec64ded1edfcc4255941dc589635c30e2f.pdf) 
+- [Combined State of Charge and State of Health estimation overlithium-ion battery cell cycle lifespan for electric vehicles](https://reader.elsevier.com/reader/sd/pii/S0378775314015572?token=CE1D8C3D4166F847D3ABAA72E5B4BB86864A3D5F37838D22BC59D49B59D021B3D1B60F9217364C37F35EDF86C0FA8F08) 
+- [A neural network based state-of-health estimation of lithium-ion battery in electric vehicles](https://reader.elsevier.com/reader/sd/pii/S1876610217306355?token=B024AD950DD3D92368BF0DF83F865C81EDF45E88CE81DD52D515EB49017C9C60793850BC4D9E7AF5262FB3F5B483E28C) 
+- [State-of-health estimation of lithium-ion battery based on interval capacity](https://reader.elsevier.com/reader/sd/pii/S1876610217307361?token=C9A6D6D9FE57D8E76C5007D03B809D0BD672388CFD48C3BC950F671F685105494ADB9C516EE265F2BAC1B3C440F2A7B5) 
+- [A review of SOH estimation methodsin Lithium-ion batteries for electric vehicle applications](https://reader.elsevier.com/reader/sd/pii/S1876610215009674?token=E81AE82CD6331A3D070E2FD40CC024F5B4D1F6D2B3E98365F73557051BC8DC1B8CD8C11600447A08A369972895052F3A)
+- [Energy state of health estimation for battery packs based on the
+degradation and inconsistency](https://reader.elsevier.com/reader/sd/pii/S1876610217359829?token=9FB166F4BC3A55224134BAD04CD7743786ABD39B7697EC6681D7332680D981582ACBFC89B6B22D1295824768F5E73D9CnApbu9tWXEoZZjXwRtqDDlxeXrBTq1AdGPUw4zkaA%2FoAZofWzTRsYf5hou7OTNziV83S6lI7BC%2Bke13%2F0tpMNyuAXIAg%2FMdsEqS%2Bt2h2YB4BIWWcvalOPOGRtBVcnYTtQsHbPyMU8DSg971klYx%2B2n8xjHLA4BpNW9Hfp8BVSPNDU%2FBvzQMCNP2B4y%2FIIHlDSN4x4yrBAY42uUNT6y36hs3RolyTSZGK2AP2p%2BmBINV3u414u8ZHLGwin3Xk%2BeqwFSlSO9AdkP1hZl06w%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190911T213951Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYR2GS5B4R%2F20190911%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=07696154546a60dc5954ea0b420bad1d19e74041cc32a56ec623a0dc7e99fbf6&hash=739bbd9408923345dd29b6f08ea7d85a6eb8be26c2a778087d670bdcd15ea1ae&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1876610217359829&tid=spdf-0fe49fc6-c3d5-4f44-97b8-39e1372b6e2b&sid=616c54be8b344143ca4a06c9fbb31b76bea3gxrqb&type=client)
+
 ## Lecture note
 - [電極反応の平衡論と速度論](https://www.jstage.jst.go.jp/article/jcorr1954/18/8/18_8_367/_pdf)
 - [Conduction Heat Transfer Notes for MECH 7210](http://www.eng.auburn.edu/~dmckwski/mech7210/condbook.pdf)
